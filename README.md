@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1419" alt="Screenshot 2023-11-22 at 11 35 36" src="https://github.com/OzgurDevFolio/Notion-Clone/assets/121760057/5e26c2a4-3764-4dbf-b6ee-434b816c8827">
 
-## Getting Started
+**Notion Full Stack Note App 📝**
 
-First, run the development server:
+**Welcome to the Notion Full Stack Note App! 🚀**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Overview**
+This app, powered by Next.js and Convex.dev, offers a dynamic and responsive note-taking experience. Seamlessly integrating with Notion, it combines the flexibility of a front-end framework with the robustness of Convex.dev for database management.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Features**
+✨ Next.js Brilliance: Leverage the power of Next.js for a fast, server-rendered, and highly optimized application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**🔗 Convex.dev Integration:** Utilize Convex.dev to manage your database effortlessly, ensuring efficient storage and retrieval of your notes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**📂 Notion Organization:** Leverage Notion's advanced organizational features to structure your notes, create to-do lists, and manage your projects effectively.
 
-## Learn More
+**💻 Full Stack Power:** This app is built with a full-stack architecture, offering a seamless integration between the front end (Next.js) and the back end (Convex.dev).
 
-To learn more about Next.js, take a look at the following resources:
+**🌐 Cross-Browser Compatibility:** Compatible with all major browsers, ensuring a consistent experience for users on different platforms.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Installation**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone the repository: git clone https://github.com/OzgurDevFolio/Notion-Clone.git
+Install dependencies: npm install
+Start the app: npm run dev
+Configuration
+Create an account on Convex.dev and obtain your API key.
+Configure your Convex.dev API key in the app settings.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Usage**
+Open the app in your preferred browser.
+Log in with your Notion and Convex.dev credentials.
+Start creating and organizing your notes!
+Contributing
+We welcome contributions! If you have any ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+**Acknowledgments**
+A big thank you to the Next.js and Convex.dev communities for providing the tools that make this app possible!
+
+Happy Note-taking! 🎉
