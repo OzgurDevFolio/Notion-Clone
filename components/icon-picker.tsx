@@ -2,7 +2,7 @@
 
 import { useTheme } from 'next-themes'
 import EmojiPicker, { Theme } from 'emoji-picker-react'
-import { Popover, PopoverContent, PopoverTrigger } from '@radix-ui/react-popover'
+import { Popover, PopoverContent, PopoverTrigger } from './ui/popover'
 
 interface IconPickerProps {
     onChange: (icon: string) => void
